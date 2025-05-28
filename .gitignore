@@ -1,0 +1,25 @@
+# Ignore virtual environments
+venv/
+venv38/
+.venv/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+
+# Model or intermediate files
+*.pkl
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
