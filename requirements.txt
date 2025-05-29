@@ -4,5 +4,3 @@ scikit-learn
 nltk
 python-dotenv
 streamlit
-ast
-pickle-mixin
