@@ -14,9 +14,6 @@ __pycache__/
 # Data files
 *.csv
 
-# Model or intermediate files
-*.pkl
-
 # OS-specific
 .DS_Store
 Thumbs.db
