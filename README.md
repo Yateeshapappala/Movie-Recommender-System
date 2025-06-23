@@ -9,11 +9,11 @@ A **content-based movie recommender system** built with Python and Streamlit tha
 
 ## 🚀 Features
 
-- 🔍 Recommend movies based on plot similarity
-- 📚 Uses NLP with TF-IDF and cosine similarity
-- 🖼️ Fetches movie posters using the TMDB API
-- ⚡ Streamlit-based interactive web UI
-- ✅ Clean and intuitive user experience
+-  Recommend movies based on plot similarity
+-  Uses NLP with TF-IDF and cosine similarity
+-  Fetches movie posters using the TMDB API
+-  Streamlit-based interactive web UI
+-  Clean and intuitive user experience
 
 ---
 
@@ -97,14 +97,6 @@ TMDB_API_KEY=your_tmdb_api_key_here
 streamlit run App.py
 ```
 
----
-
-## 📦 Large Files Handling
-
-* `movies.pkl` and `similarity.pkl` are large files tracked using **Git LFS**.
-* Ensure Git LFS is installed (`git lfs install`) before cloning and pushing changes.
-
----
 
 ## 🙌 Contributing
 
@@ -112,11 +104,3 @@ Contributions are welcome! Feel free to fork the repository, open issues, or sub
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
-```
-
-Let me know if you'd like this saved directly to your `README.md` or want a version with deployment badges or GIF screenshots.
-```
